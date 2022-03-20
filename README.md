@@ -1,0 +1,2 @@
+# Waterpolo-Mechanical-Arm
+The project aims to simulate the movement of the arm of a water polo player. The simulator allows you to set the angles that determine the position of the arm, forearm and hand. In addition, it allows you to adjust the force to be imprinted on the ball. The aim of the project is to create a software in Java language with an intuitive graphical interface that allows technicians, athletes and trainers to be able to predict possible trajectories to improve the technique of players and build targeted workouts. 
